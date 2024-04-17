@@ -43,6 +43,11 @@
 		<td>(2022) Thomas J. Holt, Adam M. Bossler, Kathryn C. Seigfried-Spellar - Cybercrime and Digital Forensics 3rd | Routledge</td>
 		<td><a href="https://www.amazon.com/dp/0367360071">Amazon</a></td>
 	</tr>
+	<tr>
+		<td><img src="./images/71SuLyeBvqL._SY425_.jpg" width="130px" style="min-width: 80px;" /></td>
+		<td>(2022) Chuck Easttom - Digital Forensics, Investigation, and Response 4th | Jones & Bartlett Learning</td>
+		<td><a href="https://www.amazon.com/dp/1284226069">Amazon</a></td>
+	</tr>
 </table>
 
 ## Cyber Security
