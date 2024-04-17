@@ -24,6 +24,11 @@
 		<td><a href="https://www.amazon.com/dp/1774913038">Amazon</a></td>
 	</tr>
 	<tr>
+		<td><img src="./images/41DNHMmBsIL._SY445_SX342_.jpg" width="130px" style="min-width: 80px;" /></td>
+		<td>(2023) Suryadipta Majumdar, Paria Shirani, Lingyu Wang - Innovations in Digital Forensics | World Scientific Publishing Company</td>
+		<td><a href="https://www.amazon.com/dp/9811273197">Amazon</a></td>
+	</tr>
+	<tr>
 		<td><img src="./images/41v7CjF8BTL._SX342_SY445_.jpg" width="130px" style="min-width: 80px;" /></td>
 		<td>(2022) Gerard Johansen - Digital Forensics and Incident Response 3rd | Packt Publishing</td>
 		<td><a href="https://www.amazon.com/dp/1803238674">Amazon</a></td>
