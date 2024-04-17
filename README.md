@@ -28,6 +28,11 @@
 		<td>(2022) William Oettinger - Learn Computer Forensics | Packt Publishing</td>
 		<td><a href="https://www.amazon.com/dp/1803238305">Amazon</a></td>
 	</tr>
+	<tr>
+		<td><img src="./images/41UhWRPfPUL._SY445_SX342_.jpg" width="130px" style="min-width: 80px;" /></td>
+		<td>(2022) Thomas J. Holt, Adam M. Bossler, Kathryn C. Seigfried-Spellar - Cybercrime and Digital Forensics 3rd | Routledge</td>
+		<td><a href="https://www.amazon.com/dp/0367360071">Amazon</a></td>
+	</tr>
 </table>
 
 ## Cyber Security
